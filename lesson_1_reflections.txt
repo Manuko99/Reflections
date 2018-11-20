@@ -1,0 +1,23 @@
+It allow us to find the difference between
+the old and new version of the program.The bugs could be a typo, incorrect sintaxis etc. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	It allow us to noice the bugs easily. Moreover, it is helpul to know if the changes made have improved the software or if is false, we can use the previously version
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	The automatically saved is helpful when the user usally forget to save the changes as well as all of sudden the electricity is run out. Morevoer, the automatically aved by intervals might scattered the server with useles information and the tracking error will become more difficult. Therefore, the automatically shoudl be used for those cases
+
+How can you use the commands git log and git diff to view the history of files?
+
+	git log
+		To see the modifications history of the repository.
+
+	git diff
+		To see the differences between two commits 
+		Sintax:
+			git diff commit1 commit 2
+
+How might using version control make you more confident to make changes that could break something?
+	
+	If the new version dose not work properly, I make sure that I have a backup using of the version control software 

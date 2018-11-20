@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When a repository is initialized, there is not any commit. We should create one by ourselves.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a tool that allows to load two files pass the files that will be commited in a non-fixed path. It is value to not saturate therepository with plenty of files.		
+		
